@@ -2,7 +2,7 @@
 [Link to the Project: The Foodist Page](https://slotmachineproject.netlify.com)
 
 ___
-
+![slot](https://user-images.githubusercontent.com/49502261/60327117-1382f780-9959-11e9-812b-70598246ae8a.jpg)
 
 # Description
 Slot Machine is a web application that, upon pressing a button, randomizes 5 items on three wheels. Users are able to place a bet of 5 or 50 dollars. Feeling lucky?
