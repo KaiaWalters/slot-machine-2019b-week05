@@ -1,24 +1,23 @@
-# 🎰 Week05 Bootcamp2019b Project: Slot Machine
+# Slot-Machine
+[Link to the Project: The Foodist Page](https://slotmachineproject.netlify.com)
 
-### Goal: Build a Simple Slot Machine
+___
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
 
-### How to submit your code for review:
+# Description
+Slot Machine is a web application that, upon pressing a button, randomizes 5 items on three wheels. Users are able to place a bet of 5 or 50 dollars. Feeling lucky?
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How its Made
+This project involved the use of HTML CSS and Java Script.Java Script played a large part in the creation of this project. Math.random()was used to randomize the results of each wheel. This meant that whena user clicked a button each of the three "wheels" would crank out a different result. The if loops determined what result would be attributed to the random decimal that Math.Random() produced via if statements. 
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## What I Learned
+When tackling this project, the greatest challenge was using pseudo coding the functions that would come together to make the slot machine. 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
